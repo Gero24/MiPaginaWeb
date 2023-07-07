@@ -13,6 +13,7 @@ body {
   background: #fff;
   color: #444;
   font-family: "Open Sans", sans-serif;
+  background-color: #fffaee;
 }
 
 a {
@@ -39,7 +40,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "cambria", sans-serif;
   font-weight: 400;
   margin: 0 0 20px 0;
   padding: 0;
@@ -130,7 +131,7 @@ h6 {
   z-index: 997;
   transition: all 0.5s;
   padding: 20px 0;
-  background: #fff;
+  background: #fffaee;
   box-shadow: 0px 0px 30px rgba(127, 137, 161, 0.3);
 }
 
@@ -241,6 +242,7 @@ h6 {
 .main-nav {
   /* Drop Down */
   /* Deep Drop Down */
+  
 }
 
 .main-nav,
@@ -409,14 +411,14 @@ h6 {
 --------------------------------*/
 
 .section-bg {
-  background: #ecf5ff;
+  background: #fffaee;
 }
 
 /* About Us Section
 --------------------------------*/
 
 #about {
-  background: #fff;
+  background: #fffaee;
   padding: 60px 0;
 }
 
@@ -425,7 +427,7 @@ h6 {
 }
 
 #about .about-container .content {
-  background: #fff;
+  background: #fffaee;
 }
 
 #about .about-container .title {
@@ -443,14 +445,14 @@ h6 {
 }
 
 #about .about-container .icon-box {
-  background: #fff;
+  background: #fffaee;
   background-size: cover;
   padding: 0 0 30px 0;
 } 
 
 #about .about-container .icon-box .icon {
   float: left;
-  background: #fff;
+  background: #fffaee;
   width: 64px;
   height: 64px;
   display: -webkit-box;
@@ -858,7 +860,7 @@ h6 {
 --------------------------------*/
 
 #team {
-  background: #fff;
+  background: #fffaee;
   padding: 60px 0;
   box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.1);
 }
@@ -1119,14 +1121,14 @@ h6 {
 --------------------------------------------------------------*/
 
 #footer {
-  background: #00428a;
+  background: #000810;
   padding: 0 0 30px 0;
   color: #eee;
   font-size: 14px;
 }
 
 #footer .footer-top {
-  background: #004a99;
+  background: #000204;
   padding: 60px 0 30px 0;
 }
 
